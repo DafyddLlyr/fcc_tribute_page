@@ -1,5 +1,5 @@
-# freeCodeCamp Tribute Page
-
+# Tom Holland - Historian, Broadcaster & Writer
+### freeCodeCamp - Responsive Web Design Projects
 
 My first (and very basic!) site in many years, a tribute to one of my favourite authors and historians, Tom Holland. This page was created as part of freeCodeCamp's *"Responsive Web Design Certification"* and was an excellent simple project to familiarise myself with the basics of HTML, CSS, and responsive design principles.
 
