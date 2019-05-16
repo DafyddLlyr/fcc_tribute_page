@@ -19,6 +19,6 @@ The page was built to meet the following user stories -
 
 * **User Story #7:** I should see an a element with a corresponding `id="tribute-link"`, which links to an outside site that contains additional information about the subject of the tribute page.
 
-* **User Story #8:** The `img` element should responsively resize, relative to the width of its parent element, without exceeding its original size.
+* **User Story #8:** The `img` element should responsively resize, relative to the width of its parent element, without exceeding its original size.g
 
 * **User Story #9:** The `img` element should be centered within its parent element.
